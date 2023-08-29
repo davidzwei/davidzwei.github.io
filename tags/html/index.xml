@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>html on David Tang&#39;s Blog</title>
+        <title>html on David&#39;s Blog</title>
         <link>https://davidzwei.github.io/tags/html/</link>
-        <description>Recent content in html on David Tang&#39;s Blog</description>
+        <description>Recent content in html on David&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright>
+        <copyright>David Tang</copyright>
         <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://davidzwei.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown Syntax Guide</title>
         <link>https://davidzwei.github.io/p/markdown-syntax-guide/</link>
