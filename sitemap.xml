@@ -2,83 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://davidzwei.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-03T15:13:12+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-03-03T15:13:12+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nctu/</loc>
+    <lastmod>2024-03-03T15:13:12+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-03-03T15:13:12+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/sharing/</loc>
+    <lastmod>2024-03-03T15:13:12+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-03T15:13:12+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E6%89%80%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-03-03T15:13:12+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hello/</loc>
     <lastmod>2023-08-29T16:58:32+08:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/categories/</loc>
+    <loc>http://localhost:1313/p/hello/</loc>
     <lastmod>2023-08-29T16:58:32+08:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/tags/hello/</loc>
+    <loc>http://localhost:1313/categories/hugo/</loc>
     <lastmod>2023-08-29T16:58:32+08:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/p/hello/</loc>
+    <loc>http://localhost:1313/categories/test/</loc>
     <lastmod>2023-08-29T16:58:32+08:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/categories/hugo/</loc>
-    <lastmod>2023-08-29T16:58:32+08:00</lastmod>
-  </url><url>
-    <loc>https://davidzwei.github.io/post/</loc>
-    <lastmod>2023-08-29T16:58:32+08:00</lastmod>
-  </url><url>
-    <loc>https://davidzwei.github.io/tags/</loc>
-    <lastmod>2023-08-29T16:58:32+08:00</lastmod>
-  </url><url>
-    <loc>https://davidzwei.github.io/categories/test/</loc>
-    <lastmod>2023-08-29T16:58:32+08:00</lastmod>
-  </url><url>
-    <loc>https://davidzwei.github.io/p/test-chinese/</loc>
+    <loc>http://localhost:1313/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/tags/css/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/tags/html/</loc>
+    <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/p/markdown-syntax-guide/</loc>
+    <loc>http://localhost:1313/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/categories/syntax/</loc>
+    <loc>http://localhost:1313/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/tags/themes/</loc>
+    <loc>http://localhost:1313/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/categories/themes/</loc>
+    <loc>http://localhost:1313/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/tags/privacy/</loc>
+    <loc>http://localhost:1313/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/p/rich-content/</loc>
+    <loc>http://localhost:1313/p/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/tags/emoji/</loc>
+    <loc>http://localhost:1313/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/p/emoji-support/</loc>
+    <loc>http://localhost:1313/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidzwei.github.io/links/</loc>
+    <loc>http://localhost:1313/_index.zh-cn/</loc>
   </url><url>
-    <loc>https://davidzwei.github.io/search/</loc>
+    <loc>http://localhost:1313/links/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

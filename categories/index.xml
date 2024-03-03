@@ -2,49 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on David&#39;s Blog</title>
-        <link>https://davidzwei.github.io/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on David&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>David Tang</copyright>
-        <lastBuildDate>Tue, 29 Aug 2023 16:58:32 +0800</lastBuildDate><atom:link href="https://davidzwei.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 Mar 2024 15:13:12 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sharing</title>
+        <link>http://localhost:1313/categories/sharing/</link>
+        <pubDate>Sun, 03 Mar 2024 15:13:12 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/sharing/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Hugo</title>
-        <link>https://davidzwei.github.io/categories/hugo/</link>
+        <link>http://localhost:1313/categories/hugo/</link>
         <pubDate>Tue, 29 Aug 2023 16:58:32 +0800</pubDate>
         
-        <guid>https://davidzwei.github.io/categories/hugo/</guid>
+        <guid>http://localhost:1313/categories/hugo/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://davidzwei.github.io/categories/test/</link>
+        <link>http://localhost:1313/categories/test/</link>
         <pubDate>Tue, 29 Aug 2023 16:58:32 +0800</pubDate>
         
-        <guid>https://davidzwei.github.io/categories/test/</guid>
-        <description>&lt;img src="https://davidzwei.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>http://localhost:1313/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>测试</title>
-        <link>https://davidzwei.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
+        <link>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://davidzwei.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
         </item>
         <item>
-        <title>syntax</title>
-        <link>https://davidzwei.github.io/categories/syntax/</link>
+        <title>Syntax</title>
+        <link>http://localhost:1313/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://davidzwei.github.io/categories/syntax/</guid>
+        <guid>http://localhost:1313/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
-        <title>themes</title>
-        <link>https://davidzwei.github.io/categories/themes/</link>
+        <title>Themes</title>
+        <link>http://localhost:1313/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://davidzwei.github.io/categories/themes/</guid>
+        <guid>http://localhost:1313/categories/themes/</guid>
         <description></description>
         </item>
         
