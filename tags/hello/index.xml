@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hello on David&#39;s Blog</title>
-        <link>http://localhost:1313/tags/hello/</link>
+        <link>https://davidzwei.github.io/tags/hello/</link>
         <description>Recent content in Hello on David&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>David Tang</copyright>
-        <lastBuildDate>Tue, 29 Aug 2023 16:58:32 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/hello/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 29 Aug 2023 16:58:32 +0800</lastBuildDate><atom:link href="https://davidzwei.github.io/tags/hello/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello</title>
-        <link>http://localhost:1313/p/hello/</link>
+        <link>https://davidzwei.github.io/p/hello/</link>
         <pubDate>Tue, 29 Aug 2023 16:58:32 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/hello/</guid>
+        <guid>https://davidzwei.github.io/p/hello/</guid>
         <description>&lt;p&gt;Hello!
 This is my first blog!&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;

@@ -2,81 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on David&#39;s Blog</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://davidzwei.github.io/tags/</link>
         <description>Recent content in Tags on David&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>David Tang</copyright>
-        <lastBuildDate>Sun, 03 Mar 2024 15:13:12 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 Mar 2024 16:02:04 +0800</lastBuildDate><atom:link href="https://davidzwei.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Courses</title>
+        <link>https://davidzwei.github.io/tags/courses/</link>
+        <pubDate>Sun, 03 Mar 2024 16:02:04 +0800</pubDate>
+        
+        <guid>https://davidzwei.github.io/tags/courses/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>交大</title>
+        <link>https://davidzwei.github.io/tags/%E4%BA%A4%E5%A4%A7/</link>
+        <pubDate>Sun, 03 Mar 2024 16:02:04 +0800</pubDate>
+        
+        <guid>https://davidzwei.github.io/tags/%E4%BA%A4%E5%A4%A7/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>NCTU</title>
-        <link>http://localhost:1313/tags/nctu/</link>
+        <link>https://davidzwei.github.io/tags/nctu/</link>
         <pubDate>Sun, 03 Mar 2024 15:13:12 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/nctu/</guid>
+        <guid>https://davidzwei.github.io/tags/nctu/</guid>
         <description></description>
         </item>
         <item>
         <title>Hello</title>
-        <link>http://localhost:1313/tags/hello/</link>
+        <link>https://davidzwei.github.io/tags/hello/</link>
         <pubDate>Tue, 29 Aug 2023 16:58:32 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/hello/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Css</title>
-        <link>http://localhost:1313/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/css/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Html</title>
-        <link>http://localhost:1313/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/html/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Markdown</title>
-        <link>http://localhost:1313/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>http://localhost:1313/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Privacy</title>
-        <link>http://localhost:1313/tags/privacy/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/privacy/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Shortcodes</title>
-        <link>http://localhost:1313/tags/shortcodes/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/shortcodes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Emoji</title>
-        <link>http://localhost:1313/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/emoji/</guid>
+        <guid>https://davidzwei.github.io/tags/hello/</guid>
         <description></description>
         </item>
         
