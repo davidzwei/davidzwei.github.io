@@ -1,21 +1,326 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>交大 on David&#39;s Blog</title>
+        <title>交大 on David Tang&#39;s Blog</title>
         <link>https://davidzwei.github.io/categories/%E4%BA%A4%E5%A4%A7/</link>
-        <description>Recent content in 交大 on David&#39;s Blog</description>
+        <description>Recent content in 交大 on David Tang&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>David Tang</copyright>
-        <lastBuildDate>Sun, 03 Mar 2024 16:02:04 +0800</lastBuildDate><atom:link href="https://davidzwei.github.io/categories/%E4%BA%A4%E5%A4%A7/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>NCTU GPE 心得</title>
-        <link>https://davidzwei.github.io/p/nctu-gpe-%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Sun, 03 Mar 2024 16:02:04 +0800</pubDate>
+        <lastBuildDate>Sun, 03 Mar 2024 15:13:12 +0800</lastBuildDate><atom:link href="https://davidzwei.github.io/categories/%E4%BA%A4%E5%A4%A7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>交大資工所修課心得</title>
+        <link>https://davidzwei.github.io/p/%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E6%89%80%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Sun, 03 Mar 2024 15:13:12 +0800</pubDate>
         
-        <guid>https://davidzwei.github.io/p/nctu-gpe-%E5%BF%83%E5%BE%97/</guid>
-        <description>&lt;h2 id=&#34;交大-gpe&#34;&gt;交大 GPE&lt;/h2&gt;
-&lt;h2 id=&#34;準備過程&#34;&gt;準備過程&lt;/h2&gt;
-&lt;h2 id=&#34;考試心得&#34;&gt;考試心得&lt;/h2&gt;
+        <guid>https://davidzwei.github.io/p/%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E6%89%80%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;我是 110-1 ~ 111-2 期間修課的。分享一下在交大資工所修課的心得。依順序分享&lt;/p&gt;
+&lt;h2 id=&#34;演算法&#34;&gt;演算法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;課程
+&lt;ul&gt;
+&lt;li&gt;110-1&lt;/li&gt;
+&lt;li&gt;譚健民 教授&lt;/li&gt;
+&lt;li&gt;評分：期中考 (50%), 期末考 (50%)&lt;/li&gt;
+&lt;li&gt;成績： A+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;上課：
+&lt;ul&gt;
+&lt;li&gt;挑楓葉本挑幾個章節出來上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;心得：
+&lt;ul&gt;
+&lt;li&gt;其實老師教得很清楚，證明都非常詳細，DP 的部分還不錯。&lt;/li&gt;
+&lt;li&gt;不過我是本科生，大部分都學過了。其實有點後悔修這堂課，應該去修一些更有用的課程。&lt;/li&gt;
+&lt;li&gt;老師好像要退休了，聽說最後一次開課。&lt;/li&gt;
+&lt;li&gt;很涼，很甜。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;影像處理&#34;&gt;影像處理：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;英授課程
+&lt;ul&gt;
+&lt;li&gt;110-1&lt;/li&gt;
+&lt;li&gt;王才沛 教授&lt;/li&gt;
+&lt;li&gt;評分：A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作業：
+&lt;ul&gt;
+&lt;li&gt;hw1: 實作一些基本功能 (不能用 opencv)&lt;/li&gt;
+&lt;li&gt;hw2: edge detection (不能用 opencv)&lt;/li&gt;
+&lt;li&gt;hw3:&lt;/li&gt;
+&lt;li&gt;期末報告
+&lt;ul&gt;
+&lt;li&gt;六人一組報告一個影像處理上的主題&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;期中期末：
+&lt;ul&gt;
+&lt;li&gt;會考一些計算題，申論題。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;心得：
+&lt;ul&gt;
+&lt;li&gt;建議能適應老師的英文再上。不過我當初是很想學影像相關的東西，所以決定繼續修。&lt;/li&gt;
+&lt;li&gt;我到現在還是搞不懂作業評分標準，hw1 很認真寫但很低分，hw2 大蓋寫一寫結果很高分。&lt;/li&gt;
+&lt;li&gt;我期中期末都考沒很好，但是最後有調分。&lt;/li&gt;
+&lt;li&gt;涼度中間，甜度中間。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;新創雲端開發工具&#34;&gt;新創雲端開發工具&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;課程
+&lt;ul&gt;
+&lt;li&gt;110-1&lt;/li&gt;
+&lt;li&gt;陳添福 教授&lt;/li&gt;
+&lt;li&gt;成績：A+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作業：(以組為單位繳交）
+&lt;ul&gt;
+&lt;li&gt;lab*5&lt;/li&gt;
+&lt;li&gt;final project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;心得：
+&lt;ul&gt;
+&lt;li&gt;可以聽到一堆創業家的故事，然後 Sifive 有來演講，拿到了一件公司 T-shirt。其實，我對新創公司並不排斥，聽一聽也對新創或創業有更多的認識。&lt;/li&gt;
+&lt;li&gt;final project 要做一個類似創業的產品出來，還要寫一些創業報告等等東西。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;高等unix程式設計&#34;&gt;高等Unix程式設計&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;課程
+&lt;ul&gt;
+&lt;li&gt;110-2&lt;/li&gt;
+&lt;li&gt;黃俊穎 教授&lt;/li&gt;
+&lt;li&gt;成績：A+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作業
+&lt;ul&gt;
+&lt;li&gt;lab1: lsof&lt;/li&gt;
+&lt;li&gt;lab2: library injection&lt;/li&gt;
+&lt;li&gt;lab3: assembly signal&lt;/li&gt;
+&lt;li&gt;lab4: debuger&lt;/li&gt;
+&lt;li&gt;assembly: 加分用&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/davidzwei/Advanced-Unix-NCTU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/davidzwei/Advanced-Unix-NCTU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;考試：
+&lt;ul&gt;
+&lt;li&gt;期中：用 ctf 方式考了 11 還 13 題。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;心得：
+&lt;ul&gt;
+&lt;li&gt;我覺得老師教得很好，會當場 trace code。&lt;/li&gt;
+&lt;li&gt;學到很多 unix 底層的操作 ，一些 file system, function call, assembly 。&lt;/li&gt;
+&lt;li&gt;期中考好難喔，我到現在可能也寫不出來。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;軟體測試&#34;&gt;軟體測試&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;課程
+&lt;ul&gt;
+&lt;li&gt;110-2&lt;/li&gt;
+&lt;li&gt;黃世昆 教授&lt;/li&gt;
+&lt;li&gt;A+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作業 &lt;a class=&#34;link&#34; href=&#34;https://github.com/a4865g/NYCU-Software-Testing-2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/a4865g/NYCU-Software-Testing-2022&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Lab x8&lt;/li&gt;
+&lt;li&gt;Homework x4&lt;/li&gt;
+&lt;li&gt;Final Project:
+&lt;ul&gt;
+&lt;li&gt;三人一組，找一個專案做 testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;發 PR (加分用)&lt;/li&gt;
+&lt;li&gt;我的：https://github.com/davidzwei/Software-Testing-NCTU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;我還滿喜歡這堂課的，學到一堆測試的工具和技巧，在工作上也有使用到。&lt;/li&gt;
+&lt;li&gt;雖然作業滿多的，大概每週會有一項，不過大多很快就能完成，負擔不會到很大。&lt;/li&gt;
+&lt;li&gt;有些觀念我當時學玩還是沒什麼感覺，現在上班後回來看覺得很有用。&lt;/li&gt;
+&lt;li&gt;我只有一個 lab 遲交，其他全部都有準時交，且滿分。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;嵌入式即時系統&#34;&gt;嵌入式即時系統&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;課程
+&lt;ul&gt;
+&lt;li&gt;110-2&lt;/li&gt;
+&lt;li&gt;張立平&lt;/li&gt;
+&lt;li&gt;A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作業
+&lt;ul&gt;
+&lt;li&gt;lab1: Periodic Task Emulation&lt;/li&gt;
+&lt;li&gt;lab2: EDF Scheduler&lt;/li&gt;
+&lt;li&gt;lab3: Ceiling Priority Protocol&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;考試
+&lt;ul&gt;
+&lt;li&gt;小考 *2&lt;/li&gt;
+&lt;li&gt;期中&lt;/li&gt;
+&lt;li&gt;期末&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;心得：
+&lt;ul&gt;
+&lt;li&gt;可以學到一些排程上的演算法。&lt;/li&gt;
+&lt;li&gt;老師講解的很清楚，不過我好像沒有什麼嵌入式系統的天份，我真的不想再碰嵌入式系統的東西了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;數值軟體開發&#34;&gt;數值軟體開發&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;英授課程
+&lt;ul&gt;
+&lt;li&gt;111-1&lt;/li&gt;
+&lt;li&gt;yungyuc (yyc)&lt;/li&gt;
+&lt;li&gt;A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作業 &lt;a class=&#34;link&#34; href=&#34;https://github.com/yungyuc/nsdhw_22au&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yungyuc/nsdhw_22au&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;hw * 6
+&lt;ul&gt;
+&lt;li&gt;要發 PR&lt;/li&gt;
+&lt;li&gt;我的：https://github.com/davidzwei/nsdhw_22au&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;proposal&lt;/li&gt;
+&lt;li&gt;final project:
+&lt;ul&gt;
+&lt;li&gt;找一個數值運算相關的題目，用 cpp 寫，然後用 pybind 包成 python library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;期中考：
+&lt;ul&gt;
+&lt;li&gt;全部都是課程網頁上的東西，都是大學學過的東西，記得看熟
+&lt;ul&gt;
+&lt;li&gt;c++, python data type&lt;/li&gt;
+&lt;li&gt;浮點數轉換&lt;/li&gt;
+&lt;li&gt;cache hit/ miss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;我還滿喜歡這堂課的，老師的上課網站非常豐富，英文也是我上過英語授課最好的課。因為老師在新思上班，有時候還能聽到一些業界的故事。&lt;/li&gt;
+&lt;li&gt;老師的 &lt;a class=&#34;link&#34; href=&#34;https://yyc.solvcon.net/en/latest/nsd/index.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;課程網頁&lt;/a&gt; 相當有幫助 。&lt;/li&gt;
+&lt;li&gt;學到 Ｍodern cpp, Pybind, Git, Pull request(第一次 PR 就貢獻在這堂課了)&lt;/li&gt;
+&lt;li&gt;這堂課最困難的是就是早上七點開始上課，冬天真的起不來啊。&lt;/li&gt;
+&lt;li&gt;平時解題都用 c++ ，基本 std 都會用。但修完這堂課，發現自己寫的 c++ 有夠醜的，modern cpp 需要再好好加強。&lt;/li&gt;
+&lt;li&gt;課程所學的技能在工作上也非常有幫助。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;平行程式設計&#34;&gt;平行程式設計&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;課程
+&lt;ul&gt;
+&lt;li&gt;111-1&lt;/li&gt;
+&lt;li&gt;yyp 教授&lt;/li&gt;
+&lt;li&gt;A+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作業
+&lt;ul&gt;
+&lt;li&gt;hw * 6
+&lt;ul&gt;
+&lt;li&gt;hw1: SIMD&lt;/li&gt;
+&lt;li&gt;hw2: Pthread&lt;/li&gt;
+&lt;li&gt;hw3: OpenMP&lt;/li&gt;
+&lt;li&gt;hw4: MPI&lt;/li&gt;
+&lt;li&gt;hw5: CUDA&lt;/li&gt;
+&lt;li&gt;hw6: OpenCL&lt;/li&gt;
+&lt;li&gt;我的：https://github.com/davidzwei/Parallel-Programming-NCTU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Final project
+&lt;ul&gt;
+&lt;li&gt;三人一組找一個專案去平行化&lt;/li&gt;
+&lt;li&gt;需要用 latex 寫報告&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;心得：
+&lt;ul&gt;
+&lt;li&gt;上課講解非常清楚，內容相當豐富。&lt;/li&gt;
+&lt;li&gt;作業分數除了正確性還要比速度，需要和第一名去比。&lt;/li&gt;
+&lt;li&gt;上課所學在工作上也有用到。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;基礎程式設計&#34;&gt;基礎程式設計&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;課程：考 gpe&lt;/li&gt;
+&lt;li&gt;評分: 2.4/6 題&lt;/li&gt;
+&lt;li&gt;成績: Pass&lt;/li&gt;
+&lt;li&gt;心得:
+&lt;ul&gt;
+&lt;li&gt;練習個大概二三十題考古去考就過了&lt;/li&gt;
+&lt;li&gt;我有寫的：https://github.com/davidzwei/LeetCode-Solutions&lt;/li&gt;
+&lt;li&gt;輸入、輸出的部分要自己處理比較麻煩一點，需要特別注意。&lt;/li&gt;
+&lt;li&gt;寫完題目可以去 &lt;a class=&#34;link&#34; href=&#34;https://onlinejudge.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;online judge&lt;/a&gt; 對答案 。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;資訊科技產業專案設計&#34;&gt;資訊科技產業專案設計&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;課程
+&lt;ul&gt;
+&lt;li&gt;112-1 (成大資工所課程)&lt;/li&gt;
+&lt;li&gt;Jserv 老師&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://hackmd.io/@sysprog/info2023/https%3A%2F%2Fhackmd.io%2F%40sysprog%2FS11ooE4Rh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://hackmd.io/@sysprog/info2023/https%3A%2F%2Fhackmd.io%2F%40sysprog%2FS11ooE4Rh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作業：
+&lt;ul&gt;
+&lt;li&gt;hw1:&lt;/li&gt;
+&lt;li&gt;hw2:&lt;/li&gt;
+&lt;li&gt;hw3:&lt;/li&gt;
+&lt;li&gt;hw4:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;我只上到一半，後來開始上班就沒有跟課了。但是我前三份作業我都有交，可以從作業中看到自己有哪些不足。&lt;/li&gt;
+&lt;li&gt;課程網頁的資料相當豐富齊全，我幾乎都有看完，有些還看兩遍。&lt;/li&gt;
+&lt;li&gt;最後有拿到三份 offer ，課程非常有幫助。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;總結&#34;&gt;總結&lt;/h2&gt;
+&lt;p&gt;最近已經上工一陣子了，軟體測試、數值軟體、平行程式設計在工作上滿常用到的，私心推薦可以去上。後悔沒有去修網路程式設計。&lt;/p&gt;
 </description>
         </item>
         

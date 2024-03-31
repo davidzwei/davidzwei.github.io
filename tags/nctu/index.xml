@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>NCTU on David&#39;s Blog</title>
-        <link>https://davidzwei.github.io/tags/nctu/</link>
-        <description>Recent content in NCTU on David&#39;s Blog</description>
+        <title>NCTU on David Tang&#39;s Blog</title>
+        <link>http://localhost:1313/tags/nctu/</link>
+        <description>Recent content in NCTU on David Tang&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>David Tang</copyright>
-        <lastBuildDate>Sun, 03 Mar 2024 15:13:12 +0800</lastBuildDate><atom:link href="https://davidzwei.github.io/tags/nctu/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 Mar 2024 15:13:12 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/nctu/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>交大資工所修課心得</title>
-        <link>https://davidzwei.github.io/p/%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E6%89%80%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
+        <link>http://localhost:1313/p/%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E6%89%80%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
         <pubDate>Sun, 03 Mar 2024 15:13:12 +0800</pubDate>
         
-        <guid>https://davidzwei.github.io/p/%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E6%89%80%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
+        <guid>http://localhost:1313/p/%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E6%89%80%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
         <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;我是 110-1 ~ 111-2 期間修課的。分享一下在交大資工所修課的心得。依順序分享&lt;/p&gt;
 &lt;h2 id=&#34;影像處裡&#34;&gt;影像處裡&lt;/h2&gt;

@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='Hugo Command 1 hugo new content post/.../xxx.md 1 hugo server 1 hugo server -D 1 hugo '>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='hugo 簡易搭建部落格'>
 <title>Hugo</title>
 
 <link rel='canonical' href='https://davidzwei.github.io/p/hugo/'>
 
 <link rel="stylesheet" href="/scss/style.min.f2f21d9d961219a01621263328d8997e1ae3b4f0371d455628df1fdc27d57bd6.css"><meta property='og:title' content='Hugo'>
-<meta property='og:description' content='Hugo Command 1 hugo new content post/.../xxx.md 1 hugo server 1 hugo server -D 1 hugo '>
+<meta property='og:description' content='hugo 簡易搭建部落格'>
 <meta property='og:url' content='https://davidzwei.github.io/p/hugo/'>
-<meta property='og:site_name' content='David&#39;s Blog'>
+<meta property='og:site_name' content='David Tang&#39;s Blog'>
 <meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-01-03T20:13:04&#43;08:00'/><meta property='article:modified_time' content='2024-01-03T20:13:04&#43;08:00'/>
 <meta name="twitter:title" content="Hugo">
-<meta name="twitter:description" content="Hugo Command 1 hugo new content post/.../xxx.md 1 hugo server 1 hugo server -D 1 hugo ">
+<meta name="twitter:description" content="hugo 簡易搭建部落格">
     </head>
     <body class="
     article-page
@@ -69,8 +69,8 @@
         
         
         <div class="site-meta">
-            <h1 class="site-name"><a href="/">David&#39;s Blog</a></h1>
-            <h2 class="site-description">NYCU CS</h2>
+            <h1 class="site-name"><a href="/">David Tang&#39;s Blog</a></h1>
+            <h2 class="site-description">Software Engineer</h2>
         </div>
     </header><ol class="social-menu">
             
@@ -90,6 +90,34 @@
 
 
 
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://www.linkedin.com/in/davidzwei/'
+                        target="_blank"
+                        title="Linkedin"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-linkedin" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 11l0 5" /><path d="M8 8l0 .01" /><path d="M12 16l0 -5" /><path d="M16 16v-3a2 2 0 0 0 -4 0" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='mailto:wei870914@gmail.com'
+                        target="_blank"
+                        title="email"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mail" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z" /><path d="M3 7l9 6l9 -6" /></svg>
                         
                     </a>
                 </li>
@@ -263,8 +291,11 @@
         <div class="widget--toc">
             <nav id="TableOfContents">
   <ol>
-    <li><a href="#hugo">Hugo</a></li>
-    <li><a href="#command">Command</a></li>
+    <li><a href="#hugo-basics">Hugo Basics</a></li>
+    <li><a href="#setting">Setting</a></li>
+    <li><a href="#build">Build</a></li>
+    <li><a href="#deploy">Deploy</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </nav>
         </div>
@@ -295,6 +326,10 @@
             <a href="/p/hugo/">Hugo</a>
         </h2>
     
+        
+        <h3 class="article-subtitle">
+            hugo 簡易搭建部落格
+        </h3>
         
     </div>
 
@@ -329,7 +364,7 @@
 
 
                 <time class="article-time--reading">
-                    1 minute read
+                    2 minute read
                 </time>
             </div>
         
@@ -344,41 +379,221 @@
     <section class="article-content">
     
     
-    <h2 id="hugo">Hugo</h2>
-<h2 id="command">Command</h2>
+    <h2 id="hugo-basics">Hugo Basics</h2>
+<p>安裝</p>
+<p>linux:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">hugo new content post/.../xxx.md
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo snap install hugo
 </span></span></code></pre></td></tr></table>
 </div>
-</div><div class="highlight"><div class="chroma">
+</div><p>mac:</p>
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">hugo server
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">brew install hugo
 </span></span></code></pre></td></tr></table>
 </div>
-</div><div class="highlight"><div class="chroma">
+</div><p>檢查 hugo 版本</p>
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">hugo server -D
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hugo version
 </span></span></code></pre></td></tr></table>
 </div>
-</div><div class="highlight"><div class="chroma">
+</div><p>建立一個 hugo repo</p>
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">hugo
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hugo new website <span class="s2">&#34;your_blog&#34;</span>
 </span></span></code></pre></td></tr></table>
 </div>
+</div><p>初始化專案</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> your_blog/
+</span></span><span class="line"><span class="cl">git init
+</span></span></code></pre></td></tr></table>
 </div>
+</div><p>加入喜歡的主題，從 <a class="link" href="https://themes.gohugo.io/"  target="_blank" rel="noopener"
+    >https://themes.gohugo.io/</a>  去選一個</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git submodule add <span class="s2">&#34;theme-url&#34;</span> themes/<span class="s2">&#34;theme&#34;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>E.g. hugo-stack</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git submodule add <span class="s2">&#34;~/&#34;</span> themes/hugo-stack
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="setting">Setting</h2>
+<p>路徑下會有 <code>config.yml</code> 或 <code>config.toml</code> ，加入 theme ，以及你想要網頁要放的 網址。</p>
+<p>其他，就直接複製 themes/ 下的 <code>config.yml</code> 或 <code>config.toml</code>  的內容。</p>
+<p>看個人需求，自己修改內容。</p>
+<p>需要修改 baseurl, theme</p>
+<ul>
+<li>baseurl: 你即將要部署你的網站到哪個網址</li>
+<li>theme: 你的主題</li>
+</ul>
+<p>config.toml</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># config.yaml</span>
+</span></span><span class="line"><span class="cl">baseurl: your-website-url
+</span></span><span class="line"><span class="cl">languageCode: en-us
+</span></span><span class="line"><span class="cl">theme: your-theme
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>E.g.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># config.yaml</span>
+</span></span><span class="line"><span class="cl">baseurl: https://davidzwei.github.io/
+</span></span><span class="line"><span class="cl">languageCode: en-us
+</span></span><span class="line"><span class="cl">theme: hugo-theme-stack
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>TODO:</p>
+<p>等我有空再來寫一篇關於 hugo-theme-stack 如何客製化。</p>
+<h2 id="build">Build</h2>
+<p>編譯到 static website</p>
+<p>路徑會在 <code>/public</code></p>
+<p>編譯在本地 server</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hugo server
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>把 草稿的文章也編譯出來</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hugo server -D
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>網站會暫時部署在本地這個網址下  http://localhost:1313/</p>
+<p>可以到此網址下檢查一下</p>
+<p>直接生成，不顯示在 local server</p>
+<p>(要 deploy 前，記得要直接下此指令)</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hugo
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="deploy">Deploy</h2>
+<p>我是部署到個人 <a class="link" href="http://github.io"  target="_blank" rel="noopener"
+    >github.io</a> 主頁 ，也有人會用自己花錢申請 domain ，或是用 netilfy。不過，我是免費仔，然後覺得用 <code>netilify</code> 結尾的網站不美觀，所以決定部署在 github 主頁。</p>
+<p>我是用兩個 github repo 來管理專案:</p>
+<ol>
+<li>一個放目前這個 hugo 專案，也可以當作備份，可以隨時切換桌機或筆電來寫文章。
+<ul>
+<li>我把設 <code>private</code></li>
+</ul>
+</li>
+<li>另一個是 github 主頁的 repo (<code>user-name/github.io</code>) ，用來放編譯出來的靜態網頁。
+<ul>
+<li>設 <code>public</code></li>
+</ul>
+</li>
+</ol>
+<p>先用 submodule 來管理編譯出來的網頁，將目前路徑下的 <code>/public</code> 連結到遠端 <code>[github.io](http://github.io)</code> repo。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git submodule add <span class="s2">&#34;https://user-name/github.io&#34;</span> /public
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>接著， compile ，在 <code>/public</code> 下產生靜態網頁檔案。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hugo
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>最後，進到  <code>/public</code>  ，確認遠端 repo 正確，就可以推了</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> public/
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>確認遠端 repo 是否正確</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git remote -v
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>commit, push</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git add .
+</span></span><span class="line"><span class="cl">git commit <span class="s2">&#34;My first blog&#34;</span>
+</span></span><span class="line"><span class="cl">git push origin main
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="references">References</h2>
+<ol>
+<li>hugo document: <a class="link" href="https://gohugo.io/documentation/"  target="_blank" rel="noopener"
+    >https://gohugo.io/documentation/</a></li>
+<li>hugo themes: <a class="link" href="https://themes.gohugo.io/"  target="_blank" rel="noopener"
+    >https://themes.gohugo.io/</a></li>
+</ol>
+
 </section>
 
 
@@ -406,6 +621,28 @@
     
 
     
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/p/hello/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Hello</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
 
      
     

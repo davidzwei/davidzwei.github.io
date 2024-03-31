@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on David&#39;s Blog</title>
+        <title>Tags on David Tang&#39;s Blog</title>
         <link>https://davidzwei.github.io/tags/</link>
-        <description>Recent content in Tags on David&#39;s Blog</description>
+        <description>Recent content in Tags on David Tang&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>David Tang</copyright>
-        <lastBuildDate>Sun, 03 Mar 2024 16:02:04 +0800</lastBuildDate><atom:link href="https://davidzwei.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Courses</title>
-        <link>https://davidzwei.github.io/tags/courses/</link>
-        <pubDate>Sun, 03 Mar 2024 16:02:04 +0800</pubDate>
-        
-        <guid>https://davidzwei.github.io/tags/courses/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>交大</title>
-        <link>https://davidzwei.github.io/tags/%E4%BA%A4%E5%A4%A7/</link>
-        <pubDate>Sun, 03 Mar 2024 16:02:04 +0800</pubDate>
-        
-        <guid>https://davidzwei.github.io/tags/%E4%BA%A4%E5%A4%A7/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>NCTU</title>
-        <link>https://davidzwei.github.io/tags/nctu/</link>
-        <pubDate>Sun, 03 Mar 2024 15:13:12 +0800</pubDate>
-        
-        <guid>https://davidzwei.github.io/tags/nctu/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Tue, 29 Aug 2023 16:58:32 +0800</lastBuildDate><atom:link href="https://davidzwei.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello</title>
         <link>https://davidzwei.github.io/tags/hello/</link>
         <pubDate>Tue, 29 Aug 2023 16:58:32 +0800</pubDate>
